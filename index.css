@@ -55,13 +55,18 @@ body {
     margin: 0 0 15% 0;
     border-color: #C1CFC0;
     background-color: #C1CFC0;
-    color: white;
+    color: black;
+    font-size: large;
+    font-weight: bold;
 }
 
 .container-fluid {
     padding-top: 5%;
     color: black;
     background-color: #C1CFC0;
+}
+.btn:hover {
+    color: white;
 }
 
 .row {
