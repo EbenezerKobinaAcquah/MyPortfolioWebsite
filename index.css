@@ -23,11 +23,15 @@ body {
 }
 
 .hello {
-    padding: 20% 0 5% 10%;
+    font-weight: bold;
+    font-size: 2rem;
+    padding: 20% 0 5% 0;
 }
 
 .Name {
-    padding: 0 0 5% 10%;
+    font-size: 1.5rem;
+    margin: 0;
+    padding: 0 0 5% 0;
 }
 
 .hr1 {
@@ -39,16 +43,16 @@ body {
 
 .fs-1 {
     text-align: center;
-    margin: 5% auto 10%;
+    margin: 5% auto 5%;
 }
 
 .bio {
-    padding: 0 0 0 10%;
-    margin-bottom: 10%;
+    padding: 0 0 0 0;
+    margin: 0 0 10% 0;
 }
 
 .btn {
-    margin: 0 0 15% 10%;
+    margin: 0 0 15% 0;
     border-color: #C1CFC0;
     background-color: #C1CFC0;
     color: white;
@@ -70,12 +74,13 @@ body {
 }
 
 .aboutme1 {
-    padding-left: 10%;
+    padding-right: 5%;
+    padding-left: 5%;
 }
 
 .aboutme2 {
-    padding-right: 10%;
-    padding-left: 10%;
+    padding-right: 5%;
+    padding-left: 5%;
 }
 
 #otherpages {
@@ -84,7 +89,8 @@ body {
     padding-bottom: 0;
 }
 
-.skills-img {
+.skills-image {
+    width: 50%;
     margin: 10% auto 0 auto;
 }
 
@@ -93,8 +99,9 @@ body {
 }
 
 .fs-4 {
+    font-weight: 3rem;
     text-align: center;
-    margin: 30% auto 5% auto;
+    margin: 20% auto 5% auto;
 }
 
 .skills {
@@ -103,7 +110,8 @@ body {
 }
 
 .center {
-    margin: 0 auto 40% auto;
+    padding: 0 10% 10%;
+    margin: 0 auto 0 auto;
     text-align: center;
 }
 
